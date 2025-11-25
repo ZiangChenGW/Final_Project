@@ -1,0 +1,10 @@
+/.DS_Store
+/Plant_Pathology_2021
+/baseline_resnet50_best.pth
+/densenet121_best.pth
+/efficientnet_b3_augmented_best.pth
+/efficientnet_b3_best.pth
+/efficientnet_b3_lr_0.0001_best.pth
+/efficientnet_b3_lr_0.0005_best.pth
+/efficientnet_b3_lr_0.001_best.pth
+/plant_pathology_env
