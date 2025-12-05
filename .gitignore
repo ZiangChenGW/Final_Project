@@ -8,3 +8,17 @@
 /efficientnet_b3_lr_0.0005_best.pth
 /efficientnet_b3_lr_0.001_best.pth
 /plant_pathology_env
+/baseline_best.pth
+/bs_32_best.pth
+/bs_64_best.pth
+/bs_128_best.pth
+/lr_0.0001_best.pth
+/lr_0.0005_best.pth
+/lr_5e-05_best.pth
+/light_aug_best.pth
+/medium_aug_best.pth
+/heavy_aug_best.pth
+/opt_Adam_best.pth
+/opt_AdamW_best.pth
+
+/CV_Final.ipynb
